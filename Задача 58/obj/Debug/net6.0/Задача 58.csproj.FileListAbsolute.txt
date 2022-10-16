@@ -1,0 +1,15 @@
+E:\C#\Homework8\Задача 58\bin\Debug\net6.0\Задача 58.exe
+E:\C#\Homework8\Задача 58\bin\Debug\net6.0\Задача 58.deps.json
+E:\C#\Homework8\Задача 58\bin\Debug\net6.0\Задача 58.runtimeconfig.json
+E:\C#\Homework8\Задача 58\bin\Debug\net6.0\Задача 58.dll
+E:\C#\Homework8\Задача 58\bin\Debug\net6.0\Задача 58.pdb
+E:\C#\Homework8\Задача 58\obj\Debug\net6.0\Задача 58.csproj.AssemblyReference.cache
+E:\C#\Homework8\Задача 58\obj\Debug\net6.0\Задача 58.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Homework8\Задача 58\obj\Debug\net6.0\Задача 58.AssemblyInfoInputs.cache
+E:\C#\Homework8\Задача 58\obj\Debug\net6.0\Задача 58.AssemblyInfo.cs
+E:\C#\Homework8\Задача 58\obj\Debug\net6.0\Задача 58.csproj.CoreCompileInputs.cache
+E:\C#\Homework8\Задача 58\obj\Debug\net6.0\Задача 58.dll
+E:\C#\Homework8\Задача 58\obj\Debug\net6.0\refint\Задача 58.dll
+E:\C#\Homework8\Задача 58\obj\Debug\net6.0\Задача 58.pdb
+E:\C#\Homework8\Задача 58\obj\Debug\net6.0\Задача 58.genruntimeconfig.cache
+E:\C#\Homework8\Задача 58\obj\Debug\net6.0\ref\Задача 58.dll
